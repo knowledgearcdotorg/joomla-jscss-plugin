@@ -15,7 +15,7 @@ JLoader::import('joomla.log.log');
 
 JLoader::registerNamespace(
     'Leafo\ScssPhp',
-    __DIR__.'/vendor/leafo/scssphp/src',
+    __DIR__.'/libraries/Leafo/ScssPhp/',
     false,
     false,
     'psr4');

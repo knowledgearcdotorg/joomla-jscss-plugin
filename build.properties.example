@@ -1,0 +1,4 @@
+src=.
+path.joomla=/path/to/your/joomla/installation
+package.dest=/where/create/packages
+composer.phar=/path/to/composer.phar
