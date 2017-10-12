@@ -2,17 +2,17 @@
 <extension version="3.7" type="plugin" group="system" method="upgrade">
     <name>plg_system_jscss</name>
     <author>KnowledgeArc</author>
-    <creationDate>2017-10-08</creationDate>
+    <creationDate>2017-10-11</creationDate>
     <copyright>Copyright (C) 2015-2017 KnowledgeArc Ltd. All rights reserved.</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <authorEmail>development@knowledgearc.com</authorEmail>
     <authorUrl>www.knowledgearc.org</authorUrl>
-    <version>1.1.0</version>
+    <version>1.0.0</version>
     <description>PLG_SYSTEM_JSCSS_XML_DESCRIPTION</description>
 
     <files>
         <filename plugin="jscss">jscss.php</filename>
-        <folder>vendor</folder>
+        <folder>libraries</folder>
     </files>
 
     <languages>
