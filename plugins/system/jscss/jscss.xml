@@ -50,6 +50,6 @@
     </config>
 
     <updateservers>
-        <server type="extension" priority="1" name="System JSCSS Plugin"><![CDATA[https://raw.githubusercontent.com/knowledgearc/bootstrapbase/master/manifest.xml]]></server>
+        <server type="extension" priority="1" name="System JSCSS Plugin"><![CDATA[https://raw.githubusercontent.com/knowledgearcdotorg/joomla-jscss-plugin/master/manifest.xml]]></server>
     </updateservers>
 </extension>

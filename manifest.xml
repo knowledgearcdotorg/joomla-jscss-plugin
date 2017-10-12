@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>System - JSCSS</name>
+        <description>Compiles the current template's SCSS into CSS.</description>
+        <element>plg_system_jscss</element>
+        <type>plugin</type>
+        <version>1.0.0</version>
+        <client>0</client>
+        <infourl title="JSolr">https://github.com/knowledgearcdotorg/joomla-jscss-plugin/releases/tag/1.0.0</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/knowledgearcdotorg/joomla-jscss-plugin/releases/download/1.0.0/plg_system_jscss.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="3.[789]" />
+        <maintainerurl>http://www.knowledgearc.org</maintainerurl>
+        <maintainer>KnowledgeArc</maintainer>
+    </update>
+</updates>
